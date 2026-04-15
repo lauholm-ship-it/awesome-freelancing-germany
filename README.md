@@ -27,6 +27,7 @@ Bitte schicke Änderungsvorschläge ausschließlich per [Pull Request](https://h
 
 - [FastBill](https://www.fastbill.com/) - neuerdings mit integrierter Buchhaltung und Banking.
 
+- [eRechnungGuide.de](https://erechnung-guide.de) - Kostenloser XRechnung-Generator, Validator und Ratgeber zur E-Rechnungspflicht ab 2025.
 
 ### Projekte/Aufträge managen
 
